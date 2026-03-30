@@ -1,0 +1,14 @@
+# Only track these files (everything ignored by default)
+*
+
+# Except these
+!index.html
+!ai_doc_history.json
+!observatory_aquarium.html
+!run_observatory_26.py
+!.gitignore
+
+# Never track data files
+*.xlsx
+*.csv
+*.png
