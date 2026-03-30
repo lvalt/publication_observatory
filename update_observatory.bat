@@ -13,10 +13,10 @@ echo.
 set CONDA_ENV=scholar_api
 set PROJECT_DIR=%~dp0
 set AUTHORS_FILE=semantic_scholar_ids_2026-03-25.xlsx
-set SCIMAGO_FILE=scimagojr 2024.csv
-set GS_FILE=google_scholar_metrics_2026-03-25.csv
-set JCR_FILE=jcr_export.csv
-set JUFO_FILE=
+set SCIMAGO_FILE=scopus2026a.csv
+set GS_FILE=googlescholar2026.csv
+set JCR_FILE=jif2026.csv
+set JUFO_FILE=jufo2026.csv
 :: If you have the JUFO CSV, set it above, e.g.:
 :: set JUFO_FILE=jufo_channels.csv
 :: ─────────────────────────────────────────────────────────────
@@ -39,7 +39,7 @@ echo       Done.
 echo.
 
 :: Build the command
-set CMD=python run_observatory.py "%AUTHORS_FILE%"
+set CMD=python run_observatory_26.py "%AUTHORS_FILE%"
 if exist "%SCIMAGO_FILE%" (
     set CMD=%CMD% --scimago "%SCIMAGO_FILE%"
 ) else (
