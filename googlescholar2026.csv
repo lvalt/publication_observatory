@@ -1,0 +1,211 @@
+rank_overall,venue_name,h5_index,h5_median,subcategory,ai_doc_field
+1,IEEE/CVF Conference on Computer Vision and Pattern Recognition,450,702,Computer Vision & Pattern Recognition,AI & ML
+2,Neural Information Processing Systems,371,637,Artificial Intelligence,AI & ML
+3,International Conference on Learning Representations,362,652,Artificial Intelligence,AI & ML
+4,International Conference on Machine Learning,272,471,Artificial Intelligence,AI & ML
+5,European Conference on Computer Vision,262,417,Computer Vision & Pattern Recognition,AI & ML
+6,IEEE/CVF International Conference on Computer Vision,256,412,Computer Vision & Pattern Recognition,AI & ML
+7,Meeting of the Association for Computational Linguistics (ACL),236,387,Computational Linguistics,Language
+8,AAAI Conference on Artificial Intelligence,232,358,Artificial Intelligence,AI & ML
+9,Conference on Empirical Methods in Natural Language Processing (EMNLP),218,323,Computational Linguistics,Language
+10,IEEE Transactions on Pattern Analysis and Machine Intelligence,217,376,Computer Vision & Pattern Recognition,AI & ML
+11,IEEE Internet of Things Journal,197,273,Computing Systems,AI & ML
+12,Expert Systems with Applications,183,268,Artificial Intelligence,AI & ML
+13,IEEE Transactions on Image Processing,165,217,Computer Vision & Pattern Recognition; Signal Processing,AI & ML; Signal Processing & Comms
+14,IEEE Transactions on Neural Networks and Learning Systems,165,242,Artificial Intelligence,AI & ML
+15,IEEE Transactions on Wireless Communications,161,220,Computer Networks & Wireless Communication; Signal Processing,Signal Processing & Comms
+16,"IEEE Transactions On Systems, Man And Cybernetics Part B, Cybernetics",157,213,Artificial Intelligence,AI & ML
+17,IEEE Communications Surveys & Tutorials,155,305,Computer Networks & Wireless Communication,Signal Processing & Comms
+18,Neurocomputing,148,211,Artificial Intelligence,AI & ML
+19,Artificial Intelligence Review,147,272,Artificial Intelligence,AI & ML
+20,Neural Computing and Applications,146,226,Artificial Intelligence,AI & ML
+21,Applied Soft Computing,144,194,Artificial Intelligence,AI & ML
+22,IEEE Transactions on Vehicular Technology,143,184,Computer Networks & Wireless Communication,Signal Processing & Comms
+23,Information Fusion,143,255,Artificial Intelligence,AI & ML
+24,Knowledge-Based Systems,141,203,Artificial Intelligence,AI & ML
+25,IEEE Journal on Selected Areas in Communications,140,208,Computer Networks & Wireless Communication,Signal Processing & Comms
+26,Computer Human Interaction (CHI),139,185,Human-Computer Interaction,AI & ML
+27,Biomaterials,139,190,Biomedical Technology,Health
+28,Bioactive Materials,139,198,Biomedical Technology,Health
+29,"IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",137,203,Signal Processing,Signal Processing & Comms
+30,International Joint Conference on Artificial Intelligence (IJCAI),136,207,Artificial Intelligence,AI & ML
+31,IEEE Robotics and Automation Letters,132,187,Robotics,AI & ML
+32,Future Generation Computer Systems,132,203,Computing Systems,AI & ML
+33,IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),131,211,Computer Vision & Pattern Recognition,AI & ML
+34,Frontiers in Bioengineering and Biotechnology,131,177,Biomedical Technology,Health
+35,Journal of Machine Learning Research,130,214,Artificial Intelligence,AI & ML
+36,IEEE International Conference on Robotics and Automation,129,192,Robotics,AI & ML
+37,Medical Image Analysis,126,197,Computer Vision & Pattern Recognition,AI & ML
+38,Pattern Recognition,126,178,Computer Vision & Pattern Recognition,AI & ML
+39,IEEE Transactions on Knowledge and Data Engineering,126,209,Data Mining & Analysis,AI & ML
+40,IEEE Transactions on Communications,126,183,Computer Networks & Wireless Communication,Signal Processing & Comms
+41,Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (HLT-NAACL),126,202,Computational Linguistics,Language
+42,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,124,212,Data Mining & Analysis,AI & ML
+43,"IEEE Transactions on Systems, Man, and Cybernetics: Systems",124,177,Automation & Control Theory,Engineering
+44,Acta Biomaterialia,124,167,Biomedical Technology,Health
+45,Engineering Applications of Artificial Intelligence,117,164,Artificial Intelligence,AI & ML
+46,IEEE/CVF Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),117,194,Computer Vision & Pattern Recognition,AI & ML
+47,IEEE Transactions on Automatic Control,113,162,Automation & Control Theory,Engineering
+48,IEEE Transactions on Circuits and Systems for Video Technology,112,157,Signal Processing,Signal Processing & Comms
+49,Conference of the International Speech Communication Association (INTERSPEECH),112,160,Signal Processing,Signal Processing & Comms
+50,IEEE Transactions on Fuzzy Systems,111,155,Artificial Intelligence; Automation & Control Theory,AI & ML; Engineering
+51,International Journal of Computer Vision,109,211,Computer Vision & Pattern Recognition,AI & ML
+52,Conference on Robot Learning,107,179,Artificial Intelligence; Robotics,AI & ML
+53,Neural Networks,106,153,Artificial Intelligence,AI & ML
+54,Science Robotics,106,180,Robotics,AI & ML
+55,IEEE Transactions on Mobile Computing,101,142,Computer Networks & Wireless Communication,Signal Processing & Comms
+56,Computer Communications,101,161,Computer Networks & Wireless Communication,Signal Processing & Comms
+57,Automatica,101,137,Automation & Control Theory,Engineering
+58,IEEE Wireless Communications Letters,101,147,Computer Networks & Wireless Communication; Signal Processing,Signal Processing & Comms
+59,Journal of Network and Computer Applications,101,173,Computer Networks & Wireless Communication,Signal Processing & Comms
+60,International Conference on Artificial Intelligence and Statistics,101,156,Artificial Intelligence; Data Mining & Analysis,AI & ML
+61,Robotics and Computer-Integrated Manufacturing,100,148,Robotics,AI & ML
+62,Computer networks,99,171,Computer Networks & Wireless Communication,Signal Processing & Comms
+63,IEEE Transactions on Robotics,98,155,Robotics,AI & ML
+64,IEEE Wireless Communications,96,148,Computer Networks & Wireless Communication,Signal Processing & Comms
+65,Transactions of the Association for Computational Linguistics,96,204,Computational Linguistics,Language
+66,IEEE Network,95,150,Computer Networks & Wireless Communication,Signal Processing & Comms
+67,IEEE/CAA Journal of Automatica Sinica,95,161,Automation & Control Theory,Engineering
+68,Pattern Recognition Letters,92,132,Computer Vision & Pattern Recognition,AI & ML
+69,IEEE/RSJ International Conference on Intelligent Robots and Systems,92,137,Robotics,AI & ML
+70,IEEE Communications Magazine,91,162,Computer Networks & Wireless Communication,Signal Processing & Comms
+71,IEEE Transactions on Signal Processing,91,139,Signal Processing,Signal Processing & Comms
+72,Internet of Things,89,136,Computing Systems,AI & ML
+73,ISA Transactions,89,123,Automation & Control Theory,Engineering
+74,Proceedings of the ACM on Human-Computer Interaction,88,138,Human-Computer Interaction,AI & ML
+75,IEEE Communications Letters,88,125,Computer Networks & Wireless Communication,Signal Processing & Comms
+76,IEEE Systems Journal,86,121,Computer Networks & Wireless Communication,Signal Processing & Comms
+77,ACM International Conference on Web Search and Data Mining,86,135,Data Mining & Analysis,AI & ML
+78,Journal of Big Data,85,176,Data Mining & Analysis,AI & ML
+79,IEEE Transactions on Automation Science and Engineering (T-ASE),83,118,Robotics,AI & ML
+80,Robotics: Science and Systems,83,129,Robotics,AI & ML
+81,The Journal of Supercomputing,83,118,Computing Systems,AI & ML
+82,International Journal of Human-Computer Interaction,83,124,Human-Computer Interaction,AI & ML
+83,IEEE Transactions on Parallel and Distributed Systems,81,122,Computing Systems,AI & ML
+84,International Conference on Computational Linguistics (COLING),81,122,Computational Linguistics,Language
+85,IEEE/ASME Transactions on Mechatronics,81,103,Robotics,AI & ML
+86,Cluster Computing,80,111,Computing Systems,AI & ML
+87,IEEE International Conference on Computer Communications (INFOCOM),80,112,Computer Networks & Wireless Communication,Signal Processing & Comms
+88,Wireless Personal Communications,80,112,Computer Networks & Wireless Communication,Signal Processing & Comms
+89,"IEEE/ACM Transactions on Audio, Speech, and Language Processing",79,131,Signal Processing,Signal Processing & Comms
+90,ACS Biomaterials Science & Engineering,79,109,Biomedical Technology,Health
+91,Advanced Intelligent Systems,78,139,Robotics,AI & ML
+92,International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),77,112,Computing Systems,AI & ML
+93,Conference of the European Chapter of the Association for Computational Linguistics (EACL),77,128,Computational Linguistics,Language
+94,IEEE International Conference on Communications,76,121,Computer Networks & Wireless Communication,Signal Processing & Comms
+95,IEEE Transactions on Network and Service Management,75,108,Computer Networks & Wireless Communication,Signal Processing & Comms
+96,IEEE Journal of Selected Topics in Signal Processing,75,136,Signal Processing,Signal Processing & Comms
+97,Materials Today Bio,75,102,Biomedical Technology,Health
+98,Behaviour & Information Technology,73,116,Human-Computer Interaction,AI & ML
+99,IEEE Transactions on Affective Computing,72,115,Human-Computer Interaction,AI & ML
+100,IEEE Transactions on Biomedical Engineering,72,96,Biomedical Technology,Health
+101,IEEE Signal Processing Letters,72,101,Signal Processing,Signal Processing & Comms
+102,IEEE Open Journal of the Communications Society,71,125,Computer Networks & Wireless Communication,Signal Processing & Comms
+103,IEEE Signal Processing Magazine,71,144,Signal Processing,Signal Processing & Comms
+104,The International Journal of Robotics Research,71,131,Robotics,AI & ML
+105,USENIX Symposium on Networked Systems Design and Implementation,71,99,Computing Systems,AI & ML
+106,IEEE Transactions on Control Systems Technology,71,101,Automation & Control Theory,Engineering
+107,International Conference on Pattern Recognition,68,106,Computer Vision & Pattern Recognition,AI & ML
+108,Symposium on Operating Systems Design and Implementation (OSDI),68,128,Computing Systems,AI & ML
+109,International Conference on Language Resources and Evaluation (LREC),68,108,Computational Linguistics,Language
+110,Biofabrication,67,98,Biomedical Technology,Health
+111,International Journal of Social Robotics,67,92,Robotics,AI & ML
+112,Journal of the Mechanical Behavior of Biomedical Materials,67,93,Biomedical Technology,Health
+113,Robotics and Autonomous Systems,66,92,Robotics,AI & ML
+114,Signal Processing,66,107,Signal Processing,Signal Processing & Comms
+115,IEEE Transactions on Services Computing,65,112,Computing Systems,AI & ML
+116,Frontiers in Robotics and AI,65,97,Robotics,AI & ML
+117,Annual Reviews in Control,64,124,Automation & Control Theory,Engineering
+118,International Journal of Human-Computer Studies,64,104,Human-Computer Interaction,AI & ML
+119,"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",64,95,Human-Computer Interaction,AI & ML
+120,International Symposium on Computer Architecture (ISCA),64,103,Computing Systems,AI & ML
+121,IEEE/CVF International Conference on Computer Vision Workshops (ICCVW),63,99,Computer Vision & Pattern Recognition,AI & ML
+122,Biocybernetics and Biomedical Engineering,63,101,Biomedical Technology,Health
+123,Journal of Parallel and Distributed Computing,63,107,Computing Systems,AI & ML
+124,Journal of Neural Engineering,62,98,Biomedical Technology,Health
+125,Virtual Reality,62,115,Human-Computer Interaction,AI & ML
+126,Journal of Systems Architecture,62,87,Computing Systems,AI & ML
+127,Concurrency and Computation: Practice and Experience,62,91,Computing Systems,AI & ML
+128,Control Engineering Practice,62,86,Automation & Control Theory,Engineering
+129,Soft Robotics,61,94,Robotics,AI & ML
+130,International Journal of Interactive Mobile Technologies,60,86,Human-Computer Interaction,AI & ML
+131,Machine Learning and Systems,60,121,Computing Systems,AI & ML
+132,Annals of Biomedical Engineering,59,82,Biomedical Technology,Health
+133,International Journal of Robust and Nonlinear Control,59,85,Automation & Control Theory,Engineering
+134,IEEE International Symposium on High Performance Computer Architecture,59,99,Computing Systems,AI & ML
+135,IEEE/ACM International Symposium on Microarchitecture,58,97,Computing Systems,AI & ML
+136,Journal of Functional Biomaterials,57,93,Biomedical Technology,Health
+137,ACM Conference on Recommender Systems,57,90,Data Mining & Analysis,AI & ML
+138,British Machine Vision Conference (BMVC),57,96,Computer Vision & Pattern Recognition,AI & ML
+139,USENIX Annual Technical Conference,57,85,Computing Systems,AI & ML
+140,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,56,134,Data Mining & Analysis,AI & ML
+141,Journal of Intelligent & Robotic Systems,56,76,Automation & Control Theory; Robotics,AI & ML; Engineering
+142,Journal of Field Robotics,56,80,Robotics,AI & ML
+143,International Conference on 3D Vision (3DV),56,94,Computer Vision & Pattern Recognition,AI & ML
+144,Journal of Biomedical Materials Research Part A,56,73,Biomedical Technology,Health
+145,ACM Transactions on Computer-Human Interaction,55,90,Human-Computer Interaction,AI & ML
+146,IEEE International Conference on Image Processing (ICIP),55,89,Computer Vision & Pattern Recognition; Signal Processing,AI & ML; Signal Processing & Comms
+147,IEEE International Conference on Big Data,55,89,Data Mining & Analysis,AI & ML
+148,International Journal of Systems Science,55,89,Automation & Control Theory,Engineering
+149,IEEE Transactions on Control of Network Systems,54,70,Automation & Control Theory,Engineering
+150,ACM Designing Interactive Systems Conference,54,71,Human-Computer Interaction,AI & ML
+151,IEEE Control Systems Letters,53,68,Automation & Control Theory,Engineering
+152,Scientific Programming,53,72,Computing Systems,AI & ML
+153,ACM Symposium on User Interface Software and Technology,53,79,Human-Computer Interaction,AI & ML
+154,IET Image Processing,52,73,Computer Vision & Pattern Recognition; Signal Processing,AI & ML; Signal Processing & Comms
+155,ACM/IEEE International Conference on Human Robot Interaction,52,78,Human-Computer Interaction; Robotics,AI & ML
+156,ACM Transactions on Intelligent Systems and Technology,52,110,Data Mining & Analysis,AI & ML
+157,ACM European Conference on Computer Systems,52,78,Computing Systems,AI & ML
+158,IEEE Virtual Reality Conference,52,66,Human-Computer Interaction,AI & ML
+159,Frontiers in Virtual Reality,52,76,Human-Computer Interaction,AI & ML
+160,Asian Conference on Computer Vision (ACCV),52,81,Computer Vision & Pattern Recognition,AI & ML
+161,IEEE Reviews in Biomedical Engineering,52,96,Biomedical Technology,Health
+162,Signal Processing: Image Communication,51,76,Signal Processing,Signal Processing & Comms
+163,Data Mining and Knowledge Discovery,51,81,Data Mining & Analysis,AI & ML
+164,Image and Vision Computing,51,84,Computer Vision & Pattern Recognition,AI & ML
+165,IEEE Transactions on Computational Imaging,51,74,Signal Processing,Signal Processing & Comms
+166,Knowledge and Information Systems,51,73,Data Mining & Analysis,AI & ML
+167,IEEE Transactions on Biomedical Circuits and Systems,50,72,Biomedical Technology,Health
+168,American Control Conference,50,67,Automation & Control Theory,Engineering
+169,Biomaterials Research,50,79,Biomedical Technology,Health
+170,IEEE International Conference on Multimedia and Expo,50,68,Signal Processing,Signal Processing & Comms
+171,Medical & Biological Engineering & Computing,50,66,Biomedical Technology,Health
+172,Robotics,50,77,Robotics,AI & ML
+173,International Conference on Intelligent User Interfaces (IUI),50,90,Human-Computer Interaction,AI & ML
+174,ACM Transactions on Knowledge Discovery from Data,49,76,Data Mining & Analysis,AI & ML
+175,International Journal of Fuzzy Systems,49,71,Automation & Control Theory,Engineering
+176,IEEE International Conference on Data Mining,49,86,Data Mining & Analysis,AI & ML
+177,Conference on Learning for Dynamics and Control,49,72,Automation & Control Theory,Engineering
+178,Digital Signal Processing,49,66,Signal Processing,Signal Processing & Comms
+179,Journal of Biomedical Materials Research Part B: Applied Biomaterials,49,70,Biomedical Technology,Health
+180,IEEE Conference on Decision and Control,48,61,Automation & Control Theory,Engineering
+181,"Signal, Image and Video Processing",48,62,Signal Processing,Signal Processing & Comms
+182,Universal Access in the Information Society,48,74,Human-Computer Interaction,AI & ML
+183,"Journal of Guidance, Control, and Dynamics",47,61,Automation & Control Theory,Engineering
+184,"International Journal of Control, Automation and Systems",47,69,Automation & Control Theory,Engineering
+185,Social Network Analysis and Mining,47,72,Data Mining & Analysis,AI & ML
+186,Computer Speech & Language,47,84,Computational Linguistics,Language
+187,Engineered Regeneration,47,81,Biomedical Technology,Health
+188,Computer Vision and Image Understanding,46,91,Computer Vision & Pattern Recognition,AI & ML
+189,"IEEE Vehicular Technology Conference, VTC",46,63,Signal Processing,Signal Processing & Comms
+190,HCI International,45,64,Human-Computer Interaction,AI & ML
+191,IEEE Transactions on Human-Machine Systems,45,71,Human-Computer Interaction,AI & ML
+192,Big Data Mining and Analytics,45,88,Data Mining & Analysis,AI & ML
+193,IEEE Spoken Language Technology Workshop (SLT),44,71,Computational Linguistics,Language
+194,Multimodal Technologies and Interaction,42,62,Human-Computer Interaction,AI & ML
+195,Computational Linguistics,41,109,Computational Linguistics,Language
+196,European Conference on Machine Learning and Knowledge Discovery in Databases,41,84,Data Mining & Analysis,AI & ML
+197,International Joint Conference on Natural Language Processing (IJCNLP),41,77,Computational Linguistics,Language
+198,International Workshop on Semantic Evaluation,40,72,Computational Linguistics,Language
+199,Workshop on Machine Translation,39,80,Computational Linguistics,Language
+200,International Journal of Data Science and Analytics,39,64,Data Mining & Analysis,AI & ML
+201,ACM Transactions on Asian and Low-Resource Language Information Processing,38,56,Computational Linguistics,Language
+202,Language Resources and Evaluation,36,66,Computational Linguistics,Language
+203,SIAM International Conference on Data Mining (SDM),36,66,Data Mining & Analysis,AI & ML
+204,Conference on Empirical Methods in Natural Language Processing: System Demonstrations,35,80,Computational Linguistics,Language
+205,Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),33,49,Data Mining & Analysis,AI & ML
+206,Online Social Networks and Media,33,54,Data Mining & Analysis,AI & ML
+207,Arabic Natural Language Processing Workshop,30,54,Computational Linguistics,Language
+208,Conference on Computational Natural Language Learning (CoNLL),30,47,Computational Linguistics,Language
+209,Natural Language Engineering,30,54,Computational Linguistics,Language
+210,Biomedical Natural Language Processing,29,49,Computational Linguistics,Language
